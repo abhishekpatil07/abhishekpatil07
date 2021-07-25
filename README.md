@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Machine Learnig, Web Dev, IOT & Embedded systems.
-- 🌱 I’m currently learning Data Structures & Algorithm
+- 🌱 I’m currently learning Data Structures & Algorithm. I'm intrested to learn about AI.
 - 👯 I’m looking to collaborate on ML Projects
-- 💬 Ask me about ...
+- 💬 Ask me about 
 - 📫 How to reach me: abhishekpatil951@gmail.com
